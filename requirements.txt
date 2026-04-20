@@ -1,1 +1,4 @@
-fastapi, sqlmodel, uvicorn, python-multipart
+fastapi
+sqlmodel
+uvicorn
+python-multipart
